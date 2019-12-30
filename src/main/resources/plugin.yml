@@ -1,0 +1,7 @@
+name: StoneCutterDamage
+version: ${project.version}
+main: nl.alvinvrolijk.stonecutterdamage.StoneCutterDamage
+api-version: 1.13
+authors: [AlvinVrolijk]
+description: Get damage from Stone Cutters
+website: https://github.com/AlvinVrolijk/StoneCutterDamage
